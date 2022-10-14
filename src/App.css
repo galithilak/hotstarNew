@@ -1,0 +1,189 @@
+.navbar{
+  display: flex;
+  background: linear-gradient(165deg, rgb(2, 94, 120), rgb(0, 0, 0));
+  padding: 15px 05px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.options{
+  width: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.links a{
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 15px;
+  margin: 0px 15px;
+}
+
+.links a:hover{
+  color: aqua;
+}
+
+.navbar a div{
+  width: 16px;
+  height: 2px;
+  margin-top: 2px;
+  background: transparent;
+  background-color: rgb(151, 151, 147);
+}
+
+a:hover div{
+  background-color: rgb(217, 211, 211);
+}
+
+.home{
+  background: linear-gradient(135deg, rgb(2, 94, 120), rgb(0, 7, 13));
+  text-align: center;
+  padding-top: 45px;
+  padding-bottom: 30px;
+}
+
+.poster{
+  padding-bottom: 20px;
+  border-radius: 5px;
+}
+
+.h3{
+  color: white;
+}
+
+.poster img:hover{
+  box-shadow: 0px 0px 25px black;
+  outline: solid 1px rgb(226, 6, 10);
+  width: 1380px;
+  height: 500px;
+  border-radius: 10px;
+  transition-duration: 0.2s;
+}
+
+.highlights img:hover{
+  border-radius: 5px;
+  width: 240px;
+  height: 180px;
+  transition-duration: 0.1s;
+  outline: solid 1px rgb(220, 7, 7);
+  box-shadow: 0px 0px 25px rgb(14, 13, 13);
+}
+
+.favs{
+  background: linear-gradient( rgb(2, 94, 120), rgb(8, 41, 70));
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.favs h1{
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400px;
+  background: linear-gradient(180deg, rgb(41, 16, 95), rgb(2, 2, 30), rgb(41, 16, 95));
+}
+
+.list{
+  margin: 0px 0px;
+  padding: 10px;
+  background: linear-gradient( rgb(2, 94, 120), rgb(8, 41, 70));
+}
+
+.allign{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.fav img{
+  border-radius: 15px;
+}
+
+h2{
+  margin: 0px 0px;
+  background: linear-gradient(90deg, rgb(7, 145, 160), rgb(235, 235, 235), rgb(7, 145, 160));
+}
+
+.list img{
+  padding-top: 20px;
+}
+
+p{
+  color: rgb(125, 205, 205);
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+.footer{
+  background: linear-gradient(165deg, rgb(2, 94, 120), rgb(0, 0, 0));
+  text-align: center;
+  padding: 25px 0px;
+}
+
+.footer a{
+  text-decoration: none;
+  color: white;
+  margin: 0px 35px;
+}
+
+.footer p{
+  color: dimgray;
+}
+
+.addFavs{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+}
+
+.addFavs input{
+  display: block;
+  margin: 15px 29%;
+  /* justify-content: center; */
+  outline: transparent;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.addFavs input:hover{
+  outline: solid 1px blue;
+}
+
+.form{
+  background-color: white;
+  width: 500px;
+  height: 400px;
+  margin: 50px 0px;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.form button{
+  background-color: purple;
+  color: white;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.content{
+  background-color: purple;
+  color: white;
+  width: 500px;
+  height: 400px;
+  margin: 50px 0px;
+  display: flex;
+  align-items: center;
+  border-radius: 0px 10px 10px 0px;
+}
+
+.children{
+  background-color:black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

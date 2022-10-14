@@ -1,0 +1,44 @@
+{   
+    "favourites" : [
+        {
+            "img":"https://secure-media1.hotstarext.com/r1/thumbs/PCTV/26/14726/PCTV-14726-hsea.jpg",
+            "title":"GAME OF THRONES",
+            "genre":"FANTASY",
+            "language":"ENGLISH",
+            "rating":"9",
+            "id": 1
+        },
+        {
+            "img":"https://wallpaperaccess.com/full/781822.jpg",
+            "title":"BREAKING BAD",
+            "genre":"DRAMA",
+            "language":"ENGLISH",
+            "rating":"9.5",
+            "id": 2
+        },
+        {
+            "img":"https://c4.wallpaperflare.com/wallpaper/576/997/289/stranger-things-text-poster-wallpaper-preview.jpg",
+            "title":"STRANGER THINGS",
+            "genre":"SCI-FI",
+            "language":"ENGLISH",
+            "rating":"8",
+            "id": 3
+        },
+        {
+            "img":"https://c4.wallpaperflare.com/wallpaper/602/928/953/drugs-money-bullet-narcos-hd-wallpaper-preview.jpg",
+            "title":"NARCOS",
+            "genre":"DRAMA",
+            "language":"SPANISH",
+            "rating":"8.5",
+            "id": 4
+        },
+        {
+            "img":"https://wallpapercave.com/wp/wp1886209.jpg",
+            "title":"WESTWORLD",
+            "genre":"SCI-FI",
+            "language":"ENGLISH",
+            "rating":"7.5",
+            "id": 5
+        }
+    ]
+}
